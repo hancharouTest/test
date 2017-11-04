@@ -2,6 +2,8 @@
 <hr>
 <ol>
     <li>Clone this repository</li>
-    <li>Run `npm install`</li>
+    <li><span>Run `npm install`</span></li>
     <li>Run `npm run start to start`</li>
 </ol>
+
+`npm install`
